@@ -1,0 +1,13 @@
+body {
+    background-color: cornflowerblue;
+    }
+
+.topbuttons {
+    background-color: white;
+    align-items: right;
+}
+
+.centerbox {
+    background-color: white;
+    align-items: center;
+}
